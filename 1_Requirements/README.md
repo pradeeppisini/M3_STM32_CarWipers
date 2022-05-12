@@ -35,7 +35,7 @@
 * No Focus on Private Sector
 * Week Focus on Process Innovations
 
-# OPPRONUTIES:
+# OPPORTUNITIES:
 * Emerging New Markets
 * Technological Development
 * Demand for Saver Equipments
