@@ -23,3 +23,26 @@
 * To keep the windscreen clean enough to give adequate view at all times. #WHEN The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
 # WHO:
 * Mark Anderson invented on 1902
+# STRENGTH:
+* Low Budget
+* Good Reputation
+* High Bargaining Power Supliers
+* Big Influence on the Market
+
+# WEAKNESS:
+* Structural Inertia
+* High Transaction Cost
+* No Focus on Private Sector
+* Week Focus on Process Innovations
+
+# OPPRONUTIES:
+* Emerging New Markets
+* Technological Development
+* Demand for Saver Equipments
+* Technological Lock in of Product
+
+# THREATS:
+* Low Bargaining Power Buyers
+* Highly REgulated Industry
+* Ethical Pressure
+* Econimical Crisis
