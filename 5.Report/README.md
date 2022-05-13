@@ -40,7 +40,43 @@ By using STM32F407,buttons,4 LED's the project should be done using the timers a
 
 # WORKING PRINCIPLE:
 * Accept that the autos is the microcontroller. Assuming that the button is hit, the primary drove (red) will turn on, clicking again the wiper will begin and the subsequent drove (blue) will turn in for an ideal rate. In the event that the button os squeezed once more, the third driven (green) will turn on, and the wiper's speed will be expanded in contrast with the past one. The fourth press will turn on the fourth driven (orange), and the wiper speed will be expanded as per the past one. the microcontroller (vehicle) is switched off after the fifth snap.
-* 
+# 4W & H (WHO,WHAT,WHEN,WHERE,HOW):
+* Accept that the car is the microcontroller. Assuming the button is hit, the main drove (red) will turn on, Clicking again the wiper will begin, and the subsequent drove (blue) will turn on for an ideal rate. On the off chance that the button is squeezed once more, the third driven (green) will turn on, and the wiper's speed will be expanded in contrast with the past one. The fourth press will turn on the fourth driven (orange), and the wiper speed will be expanded as per the past one. The microcontroller (vehicle) is switched off after the fifth snap.
+
+# Utilizes:
+# WHAT:
+* The operational speed of a vehicle wiper is controlled by a wiper speed control mechanism based on rain conditions. To generate, the control system incorporates a rain sensor (30) that detects rain conditions. The amplitude of an analogue signal depends on the detected rain conditions.
+# WHY:
+* To keep the windscreen clean enough to give adequate view at all times. #WHEN The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
+# WHO:
+* Mark Anderson invented on 1902
+# STRENGTH:
+* Low Budget
+* Decrease the accidental situation
+* High Bargaining Power Supliers
+* Increase safety
+
+# WEAKNESS:
+* High maintenance.
+* High Transaction Cost
+* Limited speed
+* Week Focus on Process Innovations
+* Can be frustrating at low penetration rates.
+
+# OPPORTUNITIES:
+* Emerging New Markets
+* Technological Development
+* Demand for Saver Equipments
+* Technological Lock in of Product
+* Enables novel MTM application.
+
+# THREATS:
+* Low Bargaining Power Buyers
+* Highly REgulated Industry
+* Ethical Pressure
+* Econimical Crisis
+* MTM delayed adapation.
+
 # Exploring STM32F407 Discovery Board:
 ![image](https://user-images.githubusercontent.com/101619680/168203100-e55036da-1f5a-4c49-87a2-d76c028bbb45.png)
 
