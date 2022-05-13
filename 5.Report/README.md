@@ -27,6 +27,20 @@ By using STM32F407,buttons,4 LED's the project should be done using the timers a
 * Rain sensors must make a decision within a few minutes to avoid erroneous detection of rain.
 * When water falls squarely on the rain sensor, the mechanism activates.
 
+
+# STM32F407VG
+* The STM32F407 Kit exploits the elite exhibition STM32F407 microcontrollers capacities to mak eit straightforward for clients to make sound based application. It accompanies a ST-LINK inserted troubleshoot instrument, a ST-MEMS computerized accelerometer, an advanced mouthpiece, a sound DAC with coordinated class D speaker driver, LEDs, pushbuttons and USB OTG miniature AB connector. Ethernet network, a LCD Display and different elements have been added ti the STM32F4 DISCOVERY unit. the STM32F405xx and STM32F407xx families are worked around the elite execution Arm cortex - M4 bit RISC center, which runs at up to 168 MHz.
+
+# FEATURES OF STM32F407VG MICROCONTROLLER
+
+* Up to 1 Mbyte of flash memory
+* Up to 192+4 Kbytes of SRAM including 64-Kbytes of CCM (Core Coupled Memory) data RAM.
+* 512 bytes of OTP memory.
+* Flexible static memory controller supporting Compact flash SRAM, PSRAM, NOR and NAND memories
+
+# WORKING PRINCIPLE:
+* Accept that the autos is the microcontroller. Assuming that the button is hit, the primary drove (red) will turn on, clicking again the wiper will begin and the subsequent drove (blue) will turn in for an ideal rate. In the event that the button os squeezed once more, the third driven (green) will turn on, and the wiper's speed will be expanded in contrast with the past one. The fourth press will turn on the fourth driven (orange), and the wiper speed will be expanded as per the past one. the microcontroller (vehicle) is switched off after the fifth snap.
+* 
 # Exploring STM32F407 Discovery Board:
 ![image](https://user-images.githubusercontent.com/101619680/168203100-e55036da-1f5a-4c49-87a2-d76c028bbb45.png)
 
