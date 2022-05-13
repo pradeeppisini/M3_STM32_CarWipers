@@ -7,3 +7,5 @@
 # code Quality ![Code Quality Score](https://api.codiga.io/project/32839/score/svg)
 
 # Quality Grade ![Quality Grade](https://api.codiga.io/project/32839/status/svg)
+
+# Cppcheck [![Cppcheck Analysis](https://github.com/pradeeppisini/M2_atmega328p-Door-sensor/actions/workflows/Cppcheck_Analyse.yml/badge.svg)](https://github.com/pradeeppisini/M2_atmega328p-Door-sensor/actions/workflows/Cppcheck_Analyse.yml)
