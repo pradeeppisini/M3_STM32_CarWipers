@@ -36,4 +36,5 @@
 
 6.WIPER_SYSTEM 1
 
-![6](https://user-images.githubusercontent.com/101699116/168266085-2dc1f43a-4f8b-46d5-a70c-35ae3ee4cc99.png)
+![8](https://user-images.githubusercontent.com/101619680/168319679-655e1c8f-a0a1-4a33-a0f0-1384864fdcfa.png)
+
