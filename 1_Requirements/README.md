@@ -33,27 +33,30 @@
 * Mark Anderson invented on 1902
 # STRENGTH:
 * Low Budget
-* Good Reputation
+* Decrease the accidental situation
 * High Bargaining Power Supliers
-* Big Influence on the Market
+* Increase safety
 
 # WEAKNESS:
-* Structural Inertia
+* High maintenance.
 * High Transaction Cost
-* No Focus on Private Sector
+* Limited speed
 * Week Focus on Process Innovations
+* Can be frustrating at low penetration rates.
 
 # OPPORTUNITIES:
 * Emerging New Markets
 * Technological Development
 * Demand for Saver Equipments
 * Technological Lock in of Product
+* Enables novel MTM application.
 
 # THREATS:
 * Low Bargaining Power Buyers
 * Highly REgulated Industry
 * Ethical Pressure
 * Econimical Crisis
+* MTM delayed adapation.
 
 # HIGH LEVEL REQUIREMENTS:
 ![High level requirements](https://user-images.githubusercontent.com/101619680/168066208-7631ea00-438a-48d8-84bf-be9fa01a15b2.png)
