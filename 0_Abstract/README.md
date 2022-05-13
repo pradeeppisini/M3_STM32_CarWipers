@@ -3,8 +3,8 @@
 
 # FEATURES:
 
-1.It will lock the vehicle when the button is squeezed once
-2.It will open the vehicle when the button is squeezed two times
-3.It will wiper on and it moves clock wise bearing and when the button is squeezed threefold
-4.It will wiper off and it moves hostile to clock wise heading and when the button is squeezed multiple times
-5.It will wiper complete one cycle when the button is squeezed multiple times.
+1. It will lock the vehicle when the button is squeezed once
+2. It will open the vehicle when the button is squeezed two times
+3. It will wiper on and it moves clock wise bearing and when the button is squeezed threefold
+4. It will wiper off and it moves hostile to clock wise heading and when the button is squeezed multiple times
+5. It will wiper complete one cycle when the button is squeezed multiple times.
