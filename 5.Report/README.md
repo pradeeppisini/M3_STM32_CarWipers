@@ -26,6 +26,7 @@
 * When water falls squarely on the rain sensor, the mechanism activates.
 
 # Exploring STM32F407 Discovery Board:
+![image](https://user-images.githubusercontent.com/101619680/168203100-e55036da-1f5a-4c49-87a2-d76c028bbb45.png)
 
 This project gives almost all the basic information needed to get started with STM32F407 Discovery Board and also development of driver code.
 
@@ -37,6 +38,7 @@ This project gives almost all the basic information needed to get started with S
 Please find the STM32F4 Discovery User Manual,STM32F4xxx Reference Manual (RM0090) and other related documents inside a folder called Documents. I will be referring to these documents for information such as block diagrams, register details ect.
 
 # Overview of STM32F407VGT6 Microcontroller:
+![image](https://user-images.githubusercontent.com/101619680/168203141-05752152-e61b-4bd8-b57f-ebbef66327ad.png)
 
 The STM32F407 Discovery board uses STM32F407VGT6 Microcontroller which has ARM Cortex-M4F Processor, which is capable of running upto 168Mhz. This MCU has many peripherals such as GPIO ports, TIMERS, ADCs, DACs, Flash Memory, SRAM, SPI, UART ect. The processor and peripherals talk via BUS-Interface. There are three busses available
 
