@@ -17,4 +17,4 @@
 ![5](https://user-images.githubusercontent.com/101619680/168265695-cb8b4a02-5679-41c9-a5fc-e75fac91ceae.png)
 
 6.WIPER_SYSTEM 1
-![6](https://user-images.githubusercontent.com/101619680/168265761-ee4f9ffc-d518-4cbf-9f5a-c3e6d21d26e7.png)
+![8](https://user-images.githubusercontent.com/101619680/168320244-c6eb2349-efe1-480f-bcf4-4e64889b537f.png)
