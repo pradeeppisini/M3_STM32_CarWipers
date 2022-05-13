@@ -52,3 +52,19 @@ S-BUS This bus connects the system bus of the Cortex®-M4 with FPU core to a Bus
 
 So instructions and data use I-bus and D-bus respectively, All the other peripheral uses System bus. The Cortex-M4 processor contains three external Advanced High-performance Bus (AHB)-Lite bus interface and one Advanced Peripheral Bus (APB) interface. The GPIOs are connected to AHB1 bus which has a maximum speed of 150Mhz and is divided into two buses as APB1 and APB2. APB1 runs at 42Mhz(max) and APB2 runs at 82Mhz(max). The different peripherals such as SPI, UART, TIMERs, ADCs, DACs, etc are connected to either APB1/APB2 buses. And the AHB2(168Mhz max) is connected to Camera and USB OTG interfaces, AHB3 is connected to External memory controller.
 
+# OUTPUT IAMGES:
+
+1.User button and hold it for two seconds
+![image](https://user-images.githubusercontent.com/101619680/168224813-7ec4c324-0edb-4739-8b97-56e58d5c32f4.png)
+
+2.wiper speed low
+![image](https://user-images.githubusercontent.com/101619680/168224879-3335c168-8832-44e5-b8ab-d0f303b04717.png)
+
+3.Wiper speed medium
+![image](https://user-images.githubusercontent.com/101619680/168224922-79a29e14-de2d-4833-914d-83cde08417cc.png)
+
+4.Wiper speed is high
+![image](https://user-images.githubusercontent.com/101619680/168224983-84015987-0816-49be-8363-b5eace5a631e.png)
+
+5.User button is pressed and held for 2 seconds, the red LEDis off
+![image](https://user-images.githubusercontent.com/101619680/168225087-663c9e67-3e33-4e46-87d6-13acc9919781.png)
