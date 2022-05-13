@@ -7,3 +7,5 @@
 # Code quality score ![code quality score](https://api.codiga.io/project/33328/score/svg)
 
 # code grade ![quality Grade](https://api.codiga.io/project/33328/status/svg)
+
+# cpp check Analysis [![Cppcheck Analysis](https://github.com/pradeeppisini/M3_STM32_CarWipers/actions/workflows/cppcheck_Analyse.yml/badge.svg)](https://github.com/pradeeppisini/M3_STM32_CarWipers/actions/workflows/cppcheck_Analyse.yml)
