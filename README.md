@@ -9,3 +9,5 @@
 # code grade ![quality Grade](https://api.codiga.io/project/33328/status/svg)
 
 # cpp check Analysis [![Cppcheck Analysis](https://github.com/pradeeppisini/M3_STM32_CarWipers/actions/workflows/cppcheck_Analyse.yml/badge.svg)](https://github.com/pradeeppisini/M3_STM32_CarWipers/actions/workflows/cppcheck_Analyse.yml)
+
+# Build Linux [![Build-Linux](https://github.com/pradeeppisini/M3_STM32_CarWipers/actions/workflows/Build%20on%20Linux.yml/badge.svg)](https://github.com/pradeeppisini/M3_STM32_CarWipers/actions/workflows/Build%20on%20Linux.yml)
